@@ -1,0 +1,8 @@
+{
+    "name": "havas.events.bot",
+    "version": "1.0.0",
+    "description": "Bot du Serveur Discord : Havas Events - France New Life",
+    "main": "index.js",
+    "author": "AleX GamX"
+    
+}
