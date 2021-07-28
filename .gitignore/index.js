@@ -201,4 +201,4 @@ Client.on("message", message => {
 
 
 // Token du Bot
-Client.login("ODY5OTg3NDc5MTk1ODk3ODU2.YQGM-g.97vBAJTpPEf821bn_gbbHEA-Hj8");
+Client.login("ODY5OTg3NDc5MTk1ODk3ODU2.YQGM-g.NvQD1eDfIq41JFse2fhmWhZpl9I");
